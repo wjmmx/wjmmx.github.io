@@ -6,6 +6,8 @@ tags: Systems-Thinking, learning
 
 讲师发现很多学员参加完系统思考工作坊后，并没有继续学习的意愿。所以讲师们做了一些“思考”。
 
+<!--more-->
+
 ## 四层模型
 
 ![冰山四层模型]({{ site.baseurl }}/images/2018-09-15-LearningIceberg.png)
