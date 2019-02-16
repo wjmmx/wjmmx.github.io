@@ -115,8 +115,8 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : d290b2d169854a635837
-    clientSecret: bf38a60b0e81074e210453e25603116ae7b03eaa
+    clientID    : 11d04aca02ecf0f79878
+    clientSecret: ebe4fe1028b954b579df422800467bf79c35ed9b
     repository  : wjmmx.github.io
     owner       : wjmmx
     admin: wjmmx
