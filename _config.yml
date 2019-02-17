@@ -117,7 +117,7 @@ comments:
   gitalk:
     clientID    : 11d04aca02ecf0f79878
     clientSecret: ebe4fe1028b954b579df422800467bf79c35ed9b
-    repository  : wjmmx/wjmmx.github.io
+    repository  : wjmmx.github.io
     owner       : wjmmx
     admin: wjmmx
       # - your GitHub Id
