@@ -14,8 +14,6 @@ tags: tools, translating, 翻译
 * [Urban Dictionary](https://www.urbandictionary.com)
 * [OneLook Dictionary Search](https://www.onelook.com)
 * [The Free Dictionary](https://www.thefreedictionary.com)
-* [俚语在线词典](http://onlineslangdictionary.com)
-* [Magic Search](http://magicsearch.org/)
 
 <!--more-->
 
