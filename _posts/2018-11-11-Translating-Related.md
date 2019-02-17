@@ -8,12 +8,14 @@ tags: tools, translating, 翻译
 
 * [英中 – Linguee词典](https://cn.linguee.com/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD)
 * [英语成语词典](https://idioms.thefreedictionary.com)
-* [Google Translate](https://translate.google.cn/)
+* [Google译者工具包](http://translate.google.com/toolkit)
 * [bing翻译](https://cn.bing.com/translator)
 * [漢語(簡體)翻譯：劍橋詞典](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B0%A1%E9%AB%94/)
 * [Urban Dictionary](https://www.urbandictionary.com)
 * [OneLook Dictionary Search](https://www.onelook.com)
 * [The Free Dictionary](https://www.thefreedictionary.com)
+* [俚语在线词典](http://onlineslangdictionary.com)
+* [Magic Search](http://magicsearch.org/)
 
 <!--more-->
 
