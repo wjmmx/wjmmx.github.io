@@ -1,7 +1,7 @@
 ---
 title: 由一场火灾及处理到对城市发展与人口的系统思考
 key: 20190227
-tags: Systems-Thinking, City Development
+tags: Systems-Thinking, "City Development"
 ---
 
 ## 北京大兴“11·18”火灾
@@ -109,12 +109,11 @@ tags: Systems-Thinking, City Development
 
 ## 参考
 
-* [毒舌科技](https://mp.weixin.qq.com/s?__biz=MzI2MzEzNTI1NQ%3D%3D&chksm=f2477bf1c530f2e7332ba07fdfff058503d70a9597fe9c924d7baae994c1d51e2fba57e12192&idx=2&mid=2649969289&scene=0&sn=3c829164eba9847e95cbf060c43fb2d5#rd)
 * [北京大兴“11·18”火灾 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4%E2%80%9C11%C2%B718%E2%80%9D%E7%81%AB%E7%81%BE)
-* ["底层塌陷"综合症爆发 北京，你准备好了吗？ | www.wenxuecity.com](http://www.wenxuecity.com/news/2017/12/14/6816842.html)
-* [早餐漲了，快遞慢了，阿姨走了……“底層塌陷”綜合症爆發。北京，你準備好了嗎？ - Toments 找話題](http://toments.com/314516/)
-* [北京强逐低端人口 专家：凸显中共邪恶本性 | 外来人口 | 中共政权 | 大纪元](http://www.epochtimes.com/gb/17/11/28/n9899667.htm)
-* [两场大火之后......|火灾|建筑|事故_新浪新闻](http://news.sina.com.cn/o/2017-11-24/doc-ifypapmz4640531.shtml)
+* ["底层塌陷"综合症爆发 北京，你准备好了吗？](http://www.wenxuecity.com/news/2017/12/14/6816842.html)
+* [早餐漲了，快遞慢了，阿姨走了……“底層塌陷”綜合症爆發。北京，你準備好了嗎？](http://toments.com/314516/)
+* [北京强逐低端人口 专家：凸显中共邪恶本性](http://www.epochtimes.com/gb/17/11/28/n9899667.htm)
+* [两场大火之后......](http://news.sina.com.cn/o/2017-11-24/doc-ifypapmz4640531.shtml)
 * [11·18北京大兴西红门镇火灾事故_百度百科](https://baike.baidu.com/item/11%C2%B718%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4%E8%A5%BF%E7%BA%A2%E9%97%A8%E9%95%87%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85/22212168?fr=aladdin)
 * [大兴“11·18”火灾 加快北京清人拆违步伐 - 简书](https://www.jianshu.com/p/e76846cfe0fa)
 * [统计数据>年度统计资料>2018年度统计资料>人口与就业](http://www.bjstats.gov.cn/tjsj/ndtjzl/2018ndtjzl/rkyjy_6680/201801/t20180110_390655.html)
@@ -124,5 +123,7 @@ tags: Systems-Thinking, City Development
 * [浅析弱势群体火灾多发的成因及防范措施_中国消防在线](http://www.119.cn/txt/2010-06/18/content_3568990.htm)
 * [卡蓝默：二十世纪城市发展的思考 - 中欧社会论坛 - China Europa Forum](https://www.china-europa-forum.net/article3968.html)
 * [清理低端人口，能治大城市病吗？_文化_腾讯网](https://cul.qq.com/a/20160810/040073.htm?pgv_ref=aio2015&ptlang=2052)
+* [2018年，16.5万人离开了北京……](https://mp.weixin.qq.com/s?__biz=MzI2MzEzNTI1NQ%3D%3D&chksm=f2477bf1c530f2e7332ba07fdfff058503d70a9597fe9c924d7baae994c1d51e2fba57e12192&idx=2&mid=2649969289&scene=0&sn=3c829164eba9847e95cbf060c43fb2d5#rd)
+* [北京加快整治与疏解 前三季整治违法群租房达到11289户](https://www.jiemian.com/article/1765188.html)
 * [梁兴辉：关于城市发展战略的思考](http://www.bjqx.org.cn/qxweb/n69823c801.aspx)
 * [宫鹏：中国健康城市发展的系统性思考-中国社会科学网](http://www.cssn.cn/zhcspd/201812/t20181204_4787847.shtml)
