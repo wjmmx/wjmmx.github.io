@@ -1,5 +1,5 @@
 ---
-title: 系统思考城市发展与人口案例
+title: 由一场火灾及处理到对城市发展与人口的系统思考
 key: 20190227
 tags: Systems-Thinking, City Development
 ---
@@ -8,6 +8,8 @@ tags: Systems-Thinking, City Development
 
 2017年11月18日18时许发生在北京市大兴区西红门镇新建庄二村新康东路8号聚福缘公寓的一场重大火灾，当时该公寓地下冷库在制冷设备调试过程中，为压缩冷凝机组供电的铝芯電纜发生电气故障造成短路，引燃墙体的聚氨酯保温材料，导致19人因一氧化碳中毒死亡，8人受伤。截至2017年11月30日，已有包括起火房屋原始承租人在内的20人因涉嫌重大责任事故罪被刑事拘留。同时，北京市大兴区区长亦因此向区人大常委会请辞获准。
 2018年6月，北京市人民政府批复了此次火灾的调查报告。经认定，此次火灾是一起重大生产安全责任事故。
+
+<!--more-->
 
 ## 火灾经过
 
@@ -19,7 +21,7 @@ tags: Systems-Thinking, City Development
 
 19人在此次火灾中遇难，其中男性11人（18岁以下6人），女性8人（18岁以下2人）。在遇难者中，4人来自山东省、4人来自河南省、4人来自河北省、2人来自陕西省、2人来自北京市大兴区、1人来自黑龙江省、1人来自新疆维吾尔自治区、1人来自吉林省。截至2017年11月20日，8名伤者中7人体征平稳，1人伤情危重。
 
-![火灾死亡人员](../images/2019-02-27-SystemsThinking-Fire-Namelist.jpg)
+![火灾死亡人员]({{ site.baseurl }}/images/2019-02-27-SystemsThinking-Fire-Namelist.jpg)
 
 ## 政府反应
 
@@ -27,7 +29,7 @@ tags: Systems-Thinking, City Development
 
 事发后，北京市安全生产委员会决定自2017年11月20日起在北京市全市范围内开展为期40天的安全隐患大排查、大清理、大整治专项行动，整治对象包括出租公寓、出租大院、待疏解或正拆除场所、彩钢板建筑、工厂企业、厂房库房、仓储物流、汽配城、批发市场等。
 
-![火灾之后](../images/2019-02-27-SystemsThinking-Fire-After.jpg)
+![火灾之后]({{ site.baseurl }}/images/2019-02-27-SystemsThinking-Fire-After.jpg)
 
 ## 大排查、大清理、大整治专项行动的结果
 
@@ -81,7 +83,7 @@ tags: Systems-Thinking, City Development
 
 ### 火灾这一事件所对应的CLD
 
-![火灾](../images/2019-02-27-SystemsThinking-Fire-CLD.jpeg)
+![火灾]({{ site.baseurl }}/images/2019-02-27-SystemsThinking-Fire-CLD.jpeg)
 
 * R：追逐低房租是增长引擎
 * B：房客居住舒适度目标的平衡
@@ -92,7 +94,7 @@ tags: Systems-Thinking, City Development
 
 ### 正解在哪里？
 
-![高端产业低端产业的平衡](../images/2019-02-27-SystemsThinking-LowClassPeople-CLD.jpeg)
+![高端产业低端产业的平衡]({{ site.baseurl }}/images/2019-02-27-SystemsThinking-LowClassPeople-CLD.jpeg)
 
 * B1，B3：总人口限制对高端产业、低端产业人口数量的平衡回路
 * B2：生活便利度对低端产业人口数量产生限制的平衡回路
