@@ -4,912 +4,274 @@ key: 20200112
 tags: movie, dialogue
 ---
 
-"The Two Popes"，中文名是“教宗的承继”。这是属于Jonathan Pryce和Anthony Hopkins两个老戏骨的戏。无法想象还有谁可以做出这么精彩的演绎。
+# [The Two Popes](https://www.imdb.com/title/tt8404614/?ref_=nm_flmg_act_5)
 
-我认为最精彩的戏是两位教宗的第一次对话。这场对话针尖对麦芒，字字句句充满了睿智。电影一看完，我就赶忙找来台词重温。
+Movie的中文名是[教宗的承继](https://movie.douban.com/subject/27132510/)。这是属于[Jonathan Pryce](https://www.imdb.com/name/nm0000596/) 和 [Anthony Hopkins](https://www.imdb.com/name/nm0000164/)两个老戏骨的戏。没有谁还可以做出这么精彩的演绎。
 
+![The Two Popes]({{ site.baseurl }}/images/2020-01-12-The_Two_Popes.jpg)
 
-另外，还有三个场景让我感动：
-1. 1:20, "build bridges not walls"。这句话是马丁路德金的名言。
-2. 
-3. 影片末尾，播放着演职人员表的配音是暴雨，雨越下越大，雨声越来越响。后来渐止，有了鸟的鸣叫。能想象出鸟儿欢快的神情。
+<!--more-->
 
-早上好！
+## 最精彩的戏
 
-297
-00:21:56,333 --> 00:21:57,166
-‎教宗大人
+影片最精彩的戏是两位教宗的第一次对话。这场对话针尖对麦芒，字字句句充满了睿智。
 
-298
-00:22:02,708 --> 00:22:06,583
-‎上一次见面时 我们说的是拉丁语
+### 对话（英文版）[源自这个网页](https://deadline.com/2019/12/the-two-popes-script-anthony-mccarten-netflix-1202807060/)
 
-299
-00:22:07,625 --> 00:22:09,541
-‎那是个简短的会面
+> Ratzinger takes a breath, smooths himself down and transforms himself from a rattled, edgy old man into a decorous, dignified pontiff. He seems to do this with a single breath. He glides over to Bergoglio and greets him in Spanish.
 
-300
-00:22:09,625 --> 00:22:13,333
-‎我这个学生可不如您 圣父
+* **RATZINGER:** Good morning.
+* **BERGOGLIO:** Holiness ...
 
-301
-00:22:13,416 --> 00:22:15,250
-‎请别说拉丁语
+> He kisses Ratzinger’s ring and holds the umbrella so it shades both himself and the Pope.
 
-302
-00:22:19,416 --> 00:22:21,166
-‎拉丁语很有用 尤其是在…
+* **RATZINGER:** Last time we met we spoke Latin.
+* **BERGOGLIO:** It was a very short meeting. But please, not Latin. I was never the student you were, Holy Father
 
-303
-00:22:21,875 --> 00:22:23,958
-‎我得向枢机主教宣布坏消息时
+> Ratzinger humorously agrees to slip into English. He displays his sense of humour about the irritable cardinals.
 
-304
-00:22:24,750 --> 00:22:26,041
-‎他们中只有20%
+* **RATZINGER:** Latin is useful. Especially when I have to announce bad news to Cardinals. Only 20% become angry as only 20% know what I have said. I’m sorry to have kept you waiting. I know you value punctuality.
+* **BERGOGLIO:** It’s a beautiful afternoon. I have my breviary. I take the last hour as a gift of peace from you.
+* **RATZINGER:** My last assistant - Paolo - he would have made sure I got here on time. He was perfect.
+* **BERGOGLIO:** But now he’s in jail
 
-305
-00:22:26,583 --> 00:22:29,458
-‎会生气 因为只有20%的人
-‎能听懂我的话
+> He knows this isn’t a sensitive comment.
 
-306
-00:22:31,083 --> 00:22:33,500
-‎很抱歉让你久等了 我知道你…
+* **BERGOGLIO:** (CONT'D) That must have been hard for you.
 
-307
-00:22:34,083 --> 00:22:35,291
-‎很在乎守时
+> Ratzinger indicates the bench, inviting him to sit down. The lake is seen behind.
 
-308
-00:22:35,375 --> 00:22:39,916
-‎我的上一任助手保罗
-‎会确保我准时到达这里 他是个…
-
-309
-00:22:40,500 --> 00:22:42,208
-‎他很完美 知道吗？
-
-310
-00:22:42,291 --> 00:22:43,666
-‎现在他在监狱里
-
-311
-00:22:45,000 --> 00:22:45,833
-‎是的
-
-312
-00:22:49,791 --> 00:22:51,958
-‎您想走走吗？
-
-313
-00:22:52,041 --> 00:22:53,750
-‎这样做也许不太明智
-
-314
-00:22:54,625 --> 00:22:55,875
-‎你的鞋带没系好
-
-315
-00:22:57,458 --> 00:22:58,291
-‎是的
-
-316
-00:23:04,458 --> 00:23:07,958
-‎你写信请求我允许你
-‎从枢机大主教的职位上退休？
-
-317
-00:23:09,083 --> 00:23:09,916
-‎是的…
-
-318
-00:23:10,583 --> 00:23:12,125
-‎我的文件都在这里
-
-319
-00:23:12,875 --> 00:23:16,291
-‎在75岁之前
-‎枢机主教不需要申请退休
-
-320
-00:23:16,375 --> 00:23:17,333
-‎你生病了吗？
-
-321
-00:23:18,208 --> 00:23:21,291
-‎-我的肺有些问题
-‎-我知道 但你生下来就有这个问题
-
-322
-00:23:21,375 --> 00:23:23,708
-‎出生后 这并没真的困扰你 对吗？
-
-323
-00:23:24,583 --> 00:23:25,791
-‎你的档案里有相关记录
-
-324
-00:23:25,875 --> 00:23:28,458
-‎-我的档案？
-‎-我们为每个人都设立了档案
-
-325
-00:23:28,541 --> 00:23:30,500
-‎你不用觉得受宠若惊
-
-326
-00:23:30,583 --> 00:23:31,750
-‎不是的 我…
-
-327
-00:23:32,791 --> 00:23:33,958
-‎-我没有生病
-‎-没有
-
-328
-00:23:34,500 --> 00:23:36,000
-‎事实上 你非常活跃
-
-329
-00:23:36,083 --> 00:23:39,125
-‎你到哪里都是步行去的
-‎有时候还会骑自行车去
-
-330
-00:23:39,208 --> 00:23:40,583
-‎是的 而且我一周跳一次探戈
-
-331
-00:23:40,666 --> 00:23:42,041
-‎探戈是一种舞蹈？
-
-332
-00:23:42,125 --> 00:23:43,416
-‎我是阿根廷人
-
-333
-00:23:43,958 --> 00:23:45,958
-‎探戈和足球是必须会的东西
-
-334
-00:23:46,041 --> 00:23:48,500
-‎当然 你是跟什么人一起跳的吗？
-
-335
-00:23:49,041 --> 00:23:51,708
-‎如果一个人跳 可能会显得很蠢
-
-336
-00:23:52,291 --> 00:23:56,041
-‎所以 为了维护我办公室的尊严
-‎没错 我是和某人一起跳的
-
-337
-00:23:56,125 --> 00:23:57,000
-‎当然 这很好
-
-338
-00:23:57,666 --> 00:23:58,500
-‎请坐
-
-339
-00:24:04,500 --> 00:24:05,333
-‎好的
-
-340
-00:24:06,458 --> 00:24:08,833
-‎你一直是我最严厉的批评者之一
-
-341
-00:24:08,916 --> 00:24:11,291
-‎而严厉批评我的人很多
-
-342
-00:24:11,375 --> 00:24:13,333
-‎我从未当众说过反对您的话
-
-343
-00:24:13,416 --> 00:24:14,750
-‎没有直接说 但是…
-
-344
-00:24:14,833 --> 00:24:19,125
-‎你拒绝住在枢机大主教的官邸里
-
-345
-00:24:19,208 --> 00:24:20,916
-‎那官邸太豪华 太大了
-
-346
-00:24:23,625 --> 00:24:24,833
-‎你通过自己的…
-
-347
-00:24:25,541 --> 00:24:29,041
-‎纯洁简朴
-‎隐射我们其他人都过得不够简朴
-
-348
-00:24:30,208 --> 00:24:31,916
-‎有谁能够…
-
-349
-00:24:32,875 --> 00:24:33,958
-‎活得足够简朴吗？
-
-350
-00:24:35,333 --> 00:24:37,333
-‎关于…已婚司铎的评价
-
-351
-00:24:38,000 --> 00:24:39,416
-‎我的话被错误地引用了
-
-352
-00:24:39,500 --> 00:24:43,458
-‎我说的是：“独身可以是一种祝福
-‎也可以是一种诅咒”
-
-353
-00:24:43,541 --> 00:24:45,041
-‎是的 那么关于同性恋呢？
-
-354
-00:24:45,125 --> 00:24:46,625
-‎我所说的只是…
-
-355
-00:24:46,708 --> 00:24:48,166
-‎毫无疑问 又被错误地引用了？
-
-356
-00:24:48,250 --> 00:24:50,083
-‎是没把语境考虑进去
-
-357
-00:24:50,916 --> 00:24:53,333
-‎但我会建议你试着告诉媒体
-
-358
-00:24:53,416 --> 00:24:54,958
-‎与你想法相反的想法
-
-359
-00:24:55,041 --> 00:24:58,208
-‎这样 你的话被正确引用的机会
-‎可能会有所改善
-
-360
-00:25:00,500 --> 00:25:02,833
-‎我觉得你在公开
-
-361
-00:25:02,916 --> 00:25:04,666
-‎向非教友的人群提供圣餐
-
-362
-00:25:04,750 --> 00:25:06,541
-‎比如说那些离了婚的人
-
-363
-00:25:06,625 --> 00:25:10,541
-‎我相信给予圣餐
-
-364
-00:25:10,625 --> 00:25:12,750
-‎不是对贤人进行奖励
-
-365
-00:25:12,833 --> 00:25:14,916
-‎而是向饥饿的人提供食物
-
-366
-00:25:16,333 --> 00:25:18,291
-‎这么说 重要的是你的信念
-
-367
-00:25:18,375 --> 00:25:20,541
-‎而不是教会教导了几百年的信条
-
-368
-00:25:20,625 --> 00:25:21,458
-‎并非如此
-
-369
-00:25:21,541 --> 00:25:25,125
-‎《马可福音》第二章第17节说
-‎“吾来此乃召罪人也”
-
-370
-00:25:25,208 --> 00:25:27,916
-‎这是教会教了几千年的信条
-
-371
-00:25:28,000 --> 00:25:29,208
-‎但如果我们不划一条界限…
-
-372
-00:25:29,291 --> 00:25:31,041
-‎或者建造隔离墙
-
-373
-00:25:31,125 --> 00:25:32,958
-‎你把墙说得好像是坏事一样
-
-374
-00:25:33,041 --> 00:25:35,583
-‎房子是墙围起来的 牢固的墙体
-
-375
-00:25:35,666 --> 00:25:38,000
-‎耶稣建墙了吗？
-
-376
-00:25:38,083 --> 00:25:40,166
-‎主是慈悲的象征
-
-377
-00:25:40,250 --> 00:25:42,625
-‎罪孽越重 欢迎就越热忱
-
-378
-00:25:43,416 --> 00:25:46,458
-‎慈悲是轰倒墙壁的炸药
-
-379
-00:25:46,541 --> 00:25:47,375
-‎是的
-
-380
-00:25:49,000 --> 00:25:50,791
-‎所有的一切你都有答案 不是吗？
-
-381
-00:25:51,458 --> 00:25:55,000
-‎-别停下 继续走动
-‎-我得要走动 我们走吧
-
-382
-00:25:56,750 --> 00:26:00,833
-‎-别停下 继续走动
-‎-聪明 太聪明了
-
-383
-00:26:00,916 --> 00:26:02,041
-‎你看到了我的窘境
-
-384
-00:26:02,625 --> 00:26:04,666
-‎你很有说服力 也很受欢迎
-
-385
-00:26:04,750 --> 00:26:07,333
-‎如果我接受你的辞职
-‎看起来就会像是一种抗议
-
-386
-00:26:07,916 --> 00:26:09,625
-‎教会正遭到各方的攻击
-
-387
-00:26:09,708 --> 00:26:12,208
-‎你为什么要放弃教会
-‎让它被敌人吞噬呢？
-
-388
-00:26:12,291 --> 00:26:15,166
-‎狼出现的时候 牧羊人会逃走吗？
-
-389
-00:26:15,250 --> 00:26:16,750
-‎我不是逃走
-
-390
-00:26:17,458 --> 00:26:20,166
-‎我会带一个教区
-‎我会成为该区教民的好牧羊人
-
-391
-00:26:20,250 --> 00:26:22,958
-‎你不明白吗？你差点就被选为教宗了
-
-392
-00:26:23,041 --> 00:26:25,250
-‎如果你辞职
-‎看起来会像是对教会的批评
-
-393
-00:26:26,041 --> 00:26:28,541
-‎你的生活方式是一种批评
-‎你穿的鞋子是一种批评
-
-394
-00:26:28,625 --> 00:26:29,875
-‎您不喜欢我的鞋子？
-
-395
-00:26:30,958 --> 00:26:33,666
-‎请不要拿我所说的一切开玩笑 拜托
-
-396
-00:26:35,208 --> 00:26:39,000
-‎这是不诚实 是愤世嫉俗
-‎尊重我一点 向我展示你真实的愤怒
-
-397
-00:26:40,458 --> 00:26:42,208
-‎你是否认为教会在走向失败？
-
-398
-00:26:42,916 --> 00:26:45,666
-‎-我们在失去民心
-‎-而这是教会的错？
-
-399
-00:26:45,750 --> 00:26:49,541
-‎而不是…西方相对主义或纵容主义
-
-400
-00:26:49,625 --> 00:26:52,041
-‎他们现在说什么来着？
-‎哦 对了 “百无禁忌”
-
-401
-00:26:54,166 --> 00:26:55,208
-‎是的
-
-402
-00:26:58,291 --> 00:27:00,000
-‎你曾说过教会很自恋
-
-403
-00:27:00,083 --> 00:27:02,583
-‎-还是说这又是引用错误？
-‎-不是 我确实说过这话
-
-404
-00:27:03,250 --> 00:27:05,000
-‎在我看来 您的教会…
-
-405
-00:27:05,083 --> 00:27:05,916
-‎我的教会？
-
-406
-00:27:06,000 --> 00:27:07,041
-‎我们的教会…
-
-407
-00:27:07,583 --> 00:27:10,541
-‎正朝着我不能容忍的方向前进
-
-408
-00:27:10,625 --> 00:27:12,458
-‎或者当时局要求行动时
-
-409
-00:27:12,541 --> 00:27:14,833
-‎却止步不前
-
-410
-00:27:15,541 --> 00:27:16,500
-‎圣父…
-
-411
-00:27:17,208 --> 00:27:19,083
-‎我不想再充当一个销售人员了
-
-412
-00:27:19,166 --> 00:27:20,083
-‎销售人员？
-
-413
-00:27:20,166 --> 00:27:21,291
-‎这是一个比喻
-
-414
-00:27:21,875 --> 00:27:23,375
-‎一件产品的销售人员
-
-415
-00:27:23,458 --> 00:27:24,291
-‎产品？
-
-416
-00:27:24,375 --> 00:27:26,541
-‎当一件我从良心上…
-
-417
-00:27:27,666 --> 00:27:30,291
-‎不认可的产品的销售人员
-
-418
-00:27:30,375 --> 00:27:31,916
-‎你不相信该产品？
-
-419
-00:27:32,000 --> 00:27:35,125
-‎在我看来
-‎我们不再是这世界的一部分了
-
-420
-00:27:35,208 --> 00:27:36,750
-‎我们不属于这个世界
-
-421
-00:27:36,833 --> 00:27:38,041
-‎我们与世界脱节了
-
-422
-00:27:40,250 --> 00:27:42,500
-‎“一个与本时代精神联姻的教堂…”
-
-423
-00:27:42,583 --> 00:27:44,333
-‎对对 “将会在下一个时代守寡”
-
-424
-00:27:44,416 --> 00:27:45,791
-‎-没错
-‎-我知道
-
-425
-00:27:47,250 --> 00:27:48,166
-‎圣父…
-
-426
-00:27:48,250 --> 00:27:50,166
-‎当你是阿根廷耶稣会士的领袖时
-
-427
-00:27:50,250 --> 00:27:53,208
-‎你把所有关于马克思主义的书
-‎从图书馆里清走了
-
-428
-00:27:53,291 --> 00:27:56,125
-‎我还让修生们整天都穿着教士服
-
-429
-00:27:56,208 --> 00:27:58,458
-‎即使他们是在菜园里工作也是如此
-
-430
-00:27:58,541 --> 00:28:01,958
-‎我还把同性恋者非宗教仪式的婚姻
-‎称为魔鬼的计划
-
-431
-00:28:02,041 --> 00:28:03,208
-‎那个时候的你跟我没什么不同
-
-432
-00:28:04,083 --> 00:28:04,916
-‎不
-
-433
-00:28:05,708 --> 00:28:06,541
-‎我变了
-
-434
-00:28:06,625 --> 00:28:09,041
-‎-不 你妥协了
-‎-不 不是妥协
-
-435
-00:28:09,125 --> 00:28:11,333
-‎-不 我变了
-‎-妥…
-
-436
-00:28:13,125 --> 00:28:14,291
-‎这是两码事
-
-437
-00:28:27,500 --> 00:28:28,333
-‎我没事
-
-438
-00:28:29,875 --> 00:28:31,458
-‎改变就是妥协
-
-439
-00:28:34,583 --> 00:28:35,666
-‎生命…
-
-440
-00:28:35,750 --> 00:28:37,541
-‎主给予我们的生命
-
-441
-00:28:37,625 --> 00:28:38,875
-‎本身就充满了改变
-
-442
-00:28:40,541 --> 00:28:42,708
-‎您是圣伯多禄的继承人
-
-443
-00:28:43,750 --> 00:28:45,541
-‎圣伯多禄也结过婚
-
-444
-00:28:46,458 --> 00:28:48,541
-‎谢谢你告诉我 我之前不知道
-
-445
-00:28:50,625 --> 00:28:54,041
-‎直到12世纪 我们才让司铎禁欲
-
-446
-00:28:54,791 --> 00:28:55,791
-‎天使…
-
-447
-00:28:56,416 --> 00:28:58,583
-‎在5世纪前根本就没有提到过天使
-
-448
-00:28:58,666 --> 00:29:00,916
-‎然而突然之间 天使无处不在
-
-449
-00:29:01,000 --> 00:29:02,458
-‎就像鸽子一样
-
-450
-00:29:03,458 --> 00:29:05,333
-‎自然界或者宇宙中
-
-451
-00:29:06,000 --> 00:29:07,458
-‎没什么是静态不变的
-
-452
-00:29:07,541 --> 00:29:08,625
-‎甚至天主都不是
-
-453
-00:29:09,166 --> 00:29:11,166
-‎天主不会改变
-
-454
-00:29:11,250 --> 00:29:12,625
-‎他会改变
-
-455
-00:29:12,708 --> 00:29:15,333
-‎-主会朝我们走来
-‎-“我就是道路、真理和生命”
-
-456
-00:29:15,416 --> 00:29:17,666
-‎如果主总是在移动
-‎我们应该去哪里找他呢？
-
-457
-00:29:18,625 --> 00:29:19,666
-‎在旅途中？
-
-458
-00:29:22,250 --> 00:29:23,750
-‎你的话是自负的表现
-
-459
-00:29:24,750 --> 00:29:26,208
-‎你觉得自己更明事理
-
-460
-00:29:26,291 --> 00:29:27,833
-‎我是阿根廷人
-
-461
-00:29:27,916 --> 00:29:30,291
-‎阿根廷人会如何自杀？
-
-462
-00:29:30,375 --> 00:29:33,583
-‎他会爬到自负的顶端 然后跳下来
-
-463
-00:29:44,916 --> 00:29:47,875
-‎我对花园的这部分不太熟悉
-‎我们在哪里？
-
-464
-00:29:50,333 --> 00:29:52,750
-‎这里有树荫 也许走这边比较好？
-
-465
-00:29:52,833 --> 00:29:53,666
-‎好的
-
-466
-00:29:54,666 --> 00:29:58,500
-‎也许我们会在那里找到天主 在途中
-‎我会将你介绍给主
-
-467
-00:30:00,833 --> 00:30:04,333
-‎我们捍卫了两千年的传统
-
-468
-00:30:04,416 --> 00:30:06,625
-‎但是贝尔格里奥主教更明白事理
-
-469
-00:30:06,708 --> 00:30:10,708
-‎不 我们在最近几年里 一直在约束
-
-470
-00:30:10,791 --> 00:30:13,291
-‎所有在离婚、生育控制
-‎和同性恋问题上
-
-471
-00:30:13,375 --> 00:30:15,625
-‎与我们持不同意见的人
-
-472
-00:30:16,416 --> 00:30:18,375
-‎尽管我们的地球正在被摧毁
-
-473
-00:30:18,458 --> 00:30:21,666
-‎不平等现象像癌症一样地成倍增长
-
-474
-00:30:21,750 --> 00:30:25,375
-‎但我们担心的却是
-‎是否可以用拉丁语做弥撒
-
-475
-00:30:25,458 --> 00:30:29,416
-‎是否应该允许女性侍奉天主
-
-476
-00:30:29,500 --> 00:30:32,541
-‎我们在自己周围建满了围墙
-‎而一直以来
-
-477
-00:30:32,625 --> 00:30:35,083
-‎一直以来 真正的危险是在围墙里面
-
-478
-00:30:35,166 --> 00:30:36,458
-‎在我们内部
-
-479
-00:30:38,125 --> 00:30:39,958
-‎你在说些什么呢？
-
-480
-00:30:40,041 --> 00:30:42,291
-‎我想您知道我在说的是什么
-
-481
-00:30:42,833 --> 00:30:45,375
-‎我们早就知道有司铎、主教
-
-482
-00:30:45,458 --> 00:30:48,666
-‎教会的重要人物在侵犯儿童
-
-483
-00:30:48,750 --> 00:30:50,708
-‎-而我们做了些什么？
-‎-我们正在解决这个问题
-
-484
-00:30:50,791 --> 00:30:52,333
-‎我们听了他们的认罪
-
-485
-00:30:52,416 --> 00:30:54,500
-‎然后把他们调到另一个教区
-
-486
-00:30:54,583 --> 00:30:56,500
-‎让他们可以重新开始
-
-487
-00:30:57,125 --> 00:31:00,208
-‎-我们当时觉得 如果他们认罪了…
-‎-我们当时觉得
-
-488
-00:31:00,291 --> 00:31:02,250
-‎宁可让九个孩子遭罪
-
-489
-00:31:02,333 --> 00:31:05,625
-‎也不要让九百万人
-‎因一起丑闻而失去信仰？
-
-490
-00:31:05,708 --> 00:31:09,416
-‎-不 当然不是 这说法太荒诞了
-‎-这是一个主教跟我说的！
-
-491
-00:31:10,500 --> 00:31:11,875
-‎你是怎么答复他的呢？
-
-492
-00:31:11,958 --> 00:31:14,458
-‎我让他解除该司铎的神职
-
-493
-00:31:15,083 --> 00:31:17,500
-‎并按教规启动审判 立即执行
-
-494
-00:31:20,583 --> 00:31:22,833
-‎我不相信该司铎的几句“魔法咒语”
-
-495
-00:31:22,916 --> 00:31:24,541
-‎会让一切都恢复正常
-
-496
-00:31:24,625 --> 00:31:27,083
-‎魔法咒语？
-‎你就是这样形容圣礼的吗？
-
-497
-00:31:27,166 --> 00:31:29,500
-‎忏悔能清除罪人的灵魂
-
-498
-00:31:29,583 --> 00:31:31,208
-‎但对受害者没有任何帮助
-
-499
-00:31:33,458 --> 00:31:35,583
-‎罪过是一个伤口
-
-500
-00:31:35,666 --> 00:31:36,916
-‎不是一个污点
-
-501
-00:31:37,500 --> 00:31:39,708
-‎需要治疗 需要处理
-
-502
-00:31:39,791 --> 00:31:41,416
-‎光给予原谅是不够的
-
-503
-00:31:43,458 --> 00:31:45,750
-‎你说“我们” 但你的意思是
-‎我应该对此负责
-
-504
-00:31:45,833 --> 00:31:48,208
-‎-不 圣父 拜托
-‎-你的反对…听我说
-
-505
-00:31:49,500 --> 00:31:52,125
-‎你的辞职是对罗马教廷的抗议
-
-506
-00:31:52,208 --> 00:31:53,750
-‎-你在要求我批准这种抗议
-‎-不
-
-507
-00:31:53,833 --> 00:31:56,958
-‎你说你不再愿意当枢机大主教了
-
-508
-00:31:57,041 --> 00:31:59,791
-‎我问你 你确定
-‎自己还想成为一名司铎吗？
-
-509
-00:32:11,625 --> 00:32:13,458
-‎我不同意你说的任何话
+* **BERGOGLIO:** (CONT'D) We could walk if you preferred.
+* **RATZINGER:** That might not be wise.
+
+> Puzzling remark. He clarifies.
+
+* **RATZINGER:** (CONT'D) Your shoelaces are undone ... Oh!
+
+> Instinctively he goes to hand the umbrella to Ratzinger so he can tie his laces but Ratzinger doesn’t offer to take it. That would be a breach of protocol. So Bergoglio is left awkwardly trying to put down the umbrella and tie his shoes at the same time. It’s a power play. While Bergoglio is crouched down Ratzinger takes advantage of his discomfort.
+
+* **RATZINGER:** You wrote to me asking for permission to resign.
+* **BERGOGLIO:** Oh. Yes. I have my papers with me.
+
+> He takes the papers from his jacket but when he looks up. Ratzinger seats on the bench with the view of the lake behind. Bergoglio catches up, now juggling papers and umbrella.
+
+* **RATZINGER:** Cardinals are not required to offer their resignation until they’re seventy five. Are you ill?
+* **BERGOGLIO:** I have a problem with my lungs.
+* **RATZINGER:** You were born with that. It’s not really troubled you so far.
+
+> Bergoglio looks askance. Ratzinger makes a gesture for him to seat. He does.
+
+* **RATZINGER:** It’s in your file.
+* **BERGOGLIO:** My file!?
+* **RATZINGER:** We have files on everyone. You have no reason to feel flattered.
+* **BERGOGLIO:** I’m not ill.
+* **RATZINGER:** In fact you’re very active. You walk everywhere. Sometimes use a bicycle.
+* **BERGOGLIO:** I also tango. Once a week.
+
+> Ratzinger is taken aback at this.
+
+* **BERGOGLIO:** I’m Argentinian. Football and tango are compulsory.
+* **RATZINGER:** With ... somebody?
+
+* **BERGOGLIO:** One might look foolish if one attempted the tango alone. So for the sake of the dignity of my office - yes. With someone.
+* **RATZINGER:** You have been one of my harshest critics. There’s a lot of competition for that title.
+* **BERGOGLIO:** I’ve never spoken out against you.
+* **RATZINGER:** Not directly. When I made it easier to get permission to use the old Tridentine mass, I was criticized because it contains a prayer for the conversion of the Jews.
+* **BERGOGLIO:** I never said a word.
+* **RATZINGER:** You invited the chief rabbi to a public lunch.
+* **BERGOGLIO:** Rabbi Skora and I go back a long way. Also I’d cooked too much. Wasting food is stealing from the poor. 
+
+> By now they have strolled into one of those decorative mazes. Preoccupied, they take the twists and turns as they come.
+
+* **RATZINGER:** You refuse to live in the official Archbishop’s palace.
+* **BERGOGLIO:** It’s too big for me. Too grand.
+* **RATZINGER:** By living so simply you imply that the rest of us are not living simply enough.
+* **BERGOGLIO:** Surely one can never live simply enough.
+
+* **RATZINGER:** On married priests ...
+* **BERGOGLIO:** I was misquoted. I said celibacy can be a blessing but it might also be a curse.
+* **RATZINGER:** On homosexuality ...
+* **BERGOGLIO:** All I said was ...
+* **RATZINGER:** You were no doubt misquoted again?
+* **BERGOGLIO:** Taken out of context.
+
+> Ratzinger stops walking and faces Bergoglio.
+
+* **RATZINGER:** Might I suggest you try telling newspapers the opposite of what you think?! Your chances of being quoted correctly might improve!
+
+> Ratzinger seems rattled. Bergoglio composed. He smiles.
+
+* **BERGOGLIO:** Yes, Holiness.
+
+> They are interrupted by a beep from the watch. Ratzinger explains.
+
+* **RATZINGER:** My doctor gave it to me. It counts your steps and monitors your heart beat ... He said “you are in good shape for 86, but very bad shape for a human being.” I believe this was a joke.
+
+> The watch speaks again.
+
+* **RATZINGER:** (CONT'D) I’m patronized by a watch!
+* **BERGOGLIO:** I know how it feels to be patronized.
+
+> Benedict gives Bergoglio a look.
+> The watch pipes up. **WATCH**: Don’t stop now! Keep moving!
+> Bergoglio smiles. Ratzinger smiles back. They get walking.
+
+> They walk through a maze with narrow aisles. Bergoglio is behind Benedict but still holding the umbrella so it protects the Pope. It’s not easy.
+
+> Again Ratzinger seems not to notice the other man’s discomfort. They walk and talk.
+
+* **RATZINGER:** You openly give the sacraments to those who are out of communion ... to the divorced, for instance ...
+
+> Bergoglio comes back on this, cutting the Pope off.
+
+* **BERGOGLIO:** I believe the sacraments are not a reward for the virtuous. They’re food for the starving.
+* **RATZINGER:** So what matters is what YOU believe, not what the Church has taught for hundreds of years.
+
+> Ratzinger walks away looking slightly self-satisfied. He’s provoked this explosion. Bergoglio follows.
+
+* **BERGOGLIO:** Mark 2.xvii - “I came to call sinners,” as the Church has taught for THOUSANDS of years.
+
+> They walk up - ARCH
+
+* **RATZINGER:** But if we do not draw a line ...
+* **BERGOGLIO:** ... or build a wall to separate ...
+* **RATZINGER:** You speak as if all walls are bad. A house is made of walls. Strong walls.
+* **BERGOGLIO:** Did Jesus build walls? His face is Mercy. The bigger the sinner, the warmer the welcome. Mercy is the dynamite that blows down walls.
+* **RATZINGER:** You have answers for everything. Don’t you? You’re clever. Far too clever.
+
+### 对话（中文版）
+
+> Ratzinger深吸了一口气，使自己平静下来。一个摇摇欲坠的老人也就此变成了一个庄重威严的教皇。 他似乎只是屏住呼吸，轻松地滑到Bergoglio身边并用西班牙语打招呼。
+
+* **RATZINGER:** 早上好！
+* **BERGOGLIO:** 教宗大人...
+
+> Bergoglio亲吻了Ratzinger的戒指后，举起了伞，同时为教宗和自己撑起一片荫凉。
+
+```
+Bergoglio同时为教宗和自己撑伞在电影中显然是被改编了
+```
+
+* **RATZINGER:** 上一次见面时我们说的是拉丁语
+* **BERGOGLIO:** 那是个简短的会面。这次‎请别用拉丁语了。我这个学生可不如您，我的圣父。
+
+> Ratzinger同意使用英语。 他甚至对烦人的红衣主教表现出幽默感。
+
+* **RATZINGER:** ‎拉丁语很有用 尤其是在…我得向枢机主教宣布坏消息时。‎他们中只有20%会生气，因为只有这20%的人能听懂拉丁语。‎很抱歉让你久等了 我知道你是个守时的人。
+* **BERGOGLIO:** 这是一个美丽的下午。我有我的日课。我把这最后一个小时当作是你带来的和平礼物。
+* **RATZINGER:** ‎要是我的上一任助手保罗‎在，他会确保我准时到达这里。他是个…‎他很完美，你知道吗？
+* **BERGOGLIO:** ‎但现在他在监狱里。
+
+> 他知道这不是什么敏感的评论。
+
+* **BERGOGLIO:** (继续) 那段时光对你来说一定很难。
+
+> Ratzinger指了指石凳，邀请他坐下。湖就在身后。
+
+* **BERGOGLIO:** (继续) ‎您想走走吗？
+* **RATZINGER:** 这样做也许不太明智
+
+> 这句话似乎有点令人费解。但他很快就澄清了。
+
+* **RATZINGER:** (继续) 你的鞋带没有系好 ... 哦!
+
+> 他本能地将雨伞交给Ratzinger，这样他就可以系好鞋带，但Ratzinger并不愿拿着伞。 因此，Bergoglio尴尬地试图放下雨伞，并同时开始系鞋带。 这是一场强大的较量。当Bergoglio把脚踩在石凳上系鞋带时，Ratzinger感到很不适。
+
+* **RATZINGER:** ‎你写信请求从枢机大主教的职位上退休？
+* **BERGOGLIO:** 是的...我的文件都在这里
+
+> 他将辞职信从外套里拿出来，但当他抬起头。他发现Ratzinger坐在长凳上看着他身后的湖。 Bergoglio赶紧赶上，一边拿起辞职信和雨伞。
+
+* **RATZINGER:** 在75岁之前，枢机主教不需要申请退休。你生病了吗？
+* **BERGOGLIO:** 我的肺有些问题
+* **RATZINGER:** ‎我知道，但你生下来就这样。这不是真正困扰你的问题。
+
+> Bergoglio看上去有些疑惑。Ratzinger做个手势请他坐下。Bergoglio于是坐了下来。
+
+* **RATZINGER:** 你的档案里有相关记录。
+* **BERGOGLIO:** 我的档案！？
+* **RATZINGER:** 我们为每个人都设立了档案，‎你不用觉得受宠若惊。
+* **BERGOGLIO:** 我没有生病。
+* **RATZINGER:** ‎是的。事实上你非常活跃。‎无论到哪儿你都是步行去的。有时候还会骑自行车去。
+* **BERGOGLIO:** 是的。而且我每周还跳一次探戈。
+
+> Ratzinger有点儿吃惊。
+
+* **BERGOGLIO:** ‎我是阿根廷人‎。探戈和足球是必修课。
+* **RATZINGER:** ‎当然。你是跟什么人一起跳的吗？
+
+* **BERGOGLIO:** ‎如果一个人跳，可能会显得很蠢。所以，为了我办公室的尊严...‎没错, 我是和某人一起跳的
+
+* **RATZINGER:** ‎严厉批评我的人很多。而你一直是我最严厉的批评者之一
+* **BERGOGLIO:** ‎我从未当众说过反对您的话。
+* **RATZINGER:** ‎没有直接说 但是… 当我将使用旧的幕道者弥撒的许可更容易获得时，我受到了严历地批评，因为它包含了为犹太人悔改而祈祷。
+* **BERGOGLIO:** 我一句话也没有说。
+* **RATZINGER:** 你还邀请过一位首席拉比共用公共午餐。
+* **BERGOGLIO:** 那位首席拉比刚刚跟我一起走了很长地路。而且我做了很多吃的。浪费食物就像从穷人那里偷钱一样无法容忍。
+
+> 现在他们已经走进那些灌木迷宫。 开始全神贯注地在里面走过来走过去。
+
+* **RATZINGER:** ‎你拒绝住在枢机大主教的官邸里。
+* **BERGOGLIO:** ‎那官邸太豪华，太大了
+* **RATZINGER:** 你通过自己的…纯洁简朴，隐射我们其他人都过得不够简朴
+* **BERGOGLIO:** ‎有谁能够…‎活得足够简朴吗？
+
+* **RATZINGER:** ‎关于…已婚司铎的评价
+* **BERGOGLIO:** ‎我的话被错误地引用了。‎我说的是：“独身可以是一种祝福，也可以是一种诅咒”。
+* **RATZINGER:** ‎好的。那么关于同性恋呢？
+* **BERGOGLIO:** ‎我所说的只是…
+* **RATZINGER:** ‎毫无疑问又被错误地引用了？
+* **BERGOGLIO:** ‎是遗漏了当时的语境
+
+> Ratzinger停下脚步，转向Bergoglio。
+
+* **RATZINGER:** ‎但我会建议你试着告诉媒体与你想法相反的想法。‎这样，你的话被正确引用的机会可能会有所改善。
+
+> Ratzinger似乎很不高兴。 Bergoglio却显得很安静，笑了。
+
+* **BERGOGLIO:** 是，教宗大人。
+
+> 他们被手表的叫声打断了。
+
+* **RATZINGER:** 我的医生给我的。它可以计步并监测心跳...他说“你的状况对于86来说不错，但是对于一个人来说很糟糕”。我认为他是在开玩笑
+
+> 手表又叫起来。
+
+* **RATZINGER:** (继续)我现在是被手表庇护的！
+* **BERGOGLIO:** 我知道这种被庇护的感觉。
+
+> Ratzinger看了Bergoglio一眼。
+> 手表又叫了起来。 **WATCH**: 别停下来！继续走！
+> Bergoglio笑了。Ratzinger也回头笑了笑。他们继续往前走。
+
+> 他们穿过灌木迷宫，走道狭窄。Bergoglilio走在Ratzinger的身后，但仍握着雨伞，以保护教皇。 这并不容易。
+
+> Ratzinger似乎仍然没有注意到对方的不适。他们继续一边走一边说。
+
+* **RATZINGER:** 我觉得你在公开向非教友的人群提供圣餐。比如说那些离了婚的人...
+
+> Bergoglio转过身来，拦住了教宗的路。
+
+* **BERGOGLIO:** ‎我相信给予圣餐，‎不是对贤人进行奖励‎而是向饥饿的人提供食物。
+* **RATZINGER:** ‎这么说，重要的是你相信什么，‎而不是教会几百年来教导了什么。
+
+> Ratzinger从一旁绕开，看上去很满足于自己刚刚说的话。似乎Bergoglio被，跟随其后。
+
+* **BERGOGLIO:** ‎《马可福音》第二章第17节说“吾来此乃召罪人也”，‎这是教会教了几千年的信条。
+
+> They walk up - ARCH
+
+* **RATZINGER:** 但如果我们不划一条界限…
+* **BERGOGLIO:** 这界限或许是一堵用来隔离的墙...
+* **RATZINGER:** ‎你把墙说得好像是坏事一样。‎房子是墙围起来的，牢固的墙体。
+* **BERGOGLIO:** ‎耶稣建墙了吗？‎主是慈悲的象征。‎罪孽越重，欢迎就越热忱。慈悲是轰倒墙壁的炸药。
+* **RATZINGER:** ‎所有的一切你都有答案 不是吗？你很聪明。太聪明了。
+
+## 另外三个触动我的场景
+
+### "build bridges not walls"。这句话是马丁路德金的名言。
+
+### 原谅了
+
+### 影片末尾，播放着演职人员表的配音是暴雨，雨越下越大，雨声越来越响。后来渐止，有了鸟的鸣叫。能想象出鸟儿欢快的神情
+
