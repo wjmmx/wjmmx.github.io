@@ -1,5 +1,5 @@
 ---
-title: 七律
+title: 七绝
 key: 20200319
 tags: poem, life
 ---
