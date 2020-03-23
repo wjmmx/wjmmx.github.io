@@ -63,14 +63,19 @@ tags: blogger, jekyll, website
 
 #### 8.2.1 jekyll环境
 
-jekyll环境需要 Ruby，RubyGems，NodeJS，Python。需要根据自己的OS，搭建相应的环境。参见jekyll的[官方文档](http://jekyllcn.com/docs/installation/)。
+1. jekyll环境需要 Ruby，RubyGems，NodeJS，Python。需要根据自己的OS，搭建相应的环境。参见jekyll的[官方文档](http://jekyllcn.com/docs/installation/)。
+1. Theme也需要安装依赖，具体可以参照[安装 NexT](http://theme-next.simpleyyt.com/getting-started.html) 
+
+```shell
+$ sudo bundle install
+```
 
 #### 8.2.2 Web服务器
 
 不管是[Jekyll](https://jekyllrb.com)还是[HUGO](https://gohugo.io)，生成的静态网页都最好由Web服务器来Serve。一般而言，就两种选择：[Apache](https://httpd.apache.org/) 或者 [Nginx](https://nginx.org/en/)。在ubuntu上都是可以apt-get一个命令搞定。我选择的是 [Nginx](https://nginx.org/en/)。在开发本地，不需要安装web服务器，因为Jekyll安装就绪以后就已经可以通过以下命令来查看站点的本地效果。
 
 ```shell
-bundle exec jekyll server
+$ sudo bundle exec jekyll server
 ```
 
 在ubuntu服务器下，安装好[Nginx](https://nginx.org/en/)后，[Nginx](https://nginx.org/en/)自动运行。此时访问服务器的IP地址或者你的站点（域名已经起作用了的话），就应该可以看到default的index.html。
