@@ -12,6 +12,8 @@ tags: blogger, jekyll, website
 * Simple
 * 存放个人作品（文章、诗词、照片等）和相关资料
 
+<!--more-->
+
 ## 二、选型 [Jekyll](https://jekyllrb.com) VS [HUGO](https://gohugo.io)
 
 有一篇对比的文章值得一读。我做了一个实验，600篇md文章用jekyll编译大约是67.4秒。HUGO确实要快不少，大约8秒。但是HUGO的主题我选了好久选不好，想想一分多钟的编译速度也还能接受，于是就选择了Jekyll。HUGO最吸引我的地方是它自带的搜索功能，后面还是值得再探索一下HUGO的。
