@@ -151,6 +151,64 @@ $ service nginx restart
 
 ##### 8.2.2.2 https配置
 
-#### 8.2.3 git posthook
+#### 8.2.3 git post-receive hook
+
+部署流程中，可以采用的一种方式是在租用的云服务器上建立一个cron job。定期去github上拉一下内容，如果有新的内容那么就编译，然后部署（copy）到web服务器中。但是这次我尝试了一下另外一种方式：建立一个git post-receive hook。关于这个hook的解释，可以在[git官网](https://git-scm.com/book/zh/v2/自定义-Git-Git-钩子)中找到。简单来说，就是在云服务器上建立一个git仓库，并且在该仓库中建立一个hook。这个hook实际上是个shell脚本，它可以执行你定义的操作。触发器是你在本地的每一次push。
+
+用具体步骤来实例说明一下。
+
+1. 在云服务器（linode server）上，新建一个bare git仓库。
+
+```shell
+$ mkdir deploy.wangqiyi.me
+$ cd deploy.wangqiyi.me
+$ git init --bare
+```
+
+*deploy.wangqiyi.me*是一个空的git仓库，该文件夹里面有个hooks文件夹。
+
+1. 进入hooks目录，建立post-receive钩子
+
+```shell
+#!/bin/bash
+GIT_REPO=$HOME/deploy.wangqiyi.me
+TMP_GIT_CLONE=$HOME/tmp/wangqiyi.me
+PUBLIC_WWW=/var/www/html
+
+git clone $GIT_REPO $TMP_GIT_CLONE
+cd $TMP_GIT_CLONE
+# 最关键的是下面这个命令。执行jekyll编译，并将编译后的静态网页输出到web server伺服的网站文件夹
+JEKYLL_ENV=production bundle exec jekyll build -s $TMP_GIT_CLONE -d $PUBLIC_WWW
+rm -Rf $TMP_GIT_CLONE
+exit
+```
+
+*赋予post-receive钩子可执行权限*, 否则钩子不会执行
+
+```shell
+$ chmod 755 post-receive
+```
+
+1. 设定本地git中的remote分支，指向Linode Server
+
+```shell
+$ git remote add deploy root@<Linode Server IP>:deploy.wangqiyi.me
+```
+
+这样就可以直接push到deploy分支上了。
+```shell
+$ git push deploy master
+```
+
+1. 还可以通过git remote set-url设定origin既指向github又指向Linode Server。这样做的好处是每次我push到origin的时候，实际上我push到了两个服务器。
+
+```shell
+$ git remote set-url --add --push origin https://github.com/wjmmx/wangqiyi.git
+$ git remote set-url --add --push origin root@139.162.12.156:deploy.wangqiyi.me
+```
+
+以下参考文章，值得一读：
+* https://sofiya.io/blog/webhooks
+* http://jekyllcn.com/docs/deployment-methods/
 
 ## 九、发布文章
