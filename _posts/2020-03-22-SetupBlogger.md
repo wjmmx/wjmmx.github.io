@@ -59,9 +59,7 @@ tags: blogger, jekyll, website
 
 ![A Record]({{ site.baseurl }}/images/2020-03-22-A-Record.png)
 
-### 8.2 服务器上的搭建
-
-#### 8.2.1 jekyll环境
+### 8.2 云服务器上jekyll环境的搭建
 
 1. jekyll环境需要 Ruby，RubyGems，NodeJS，Python。需要根据自己的OS，搭建相应的环境。参见jekyll的[官方文档](http://jekyllcn.com/docs/installation/)。
 1. Theme也需要安装依赖，具体可以参照[安装 NexT](http://theme-next.simpleyyt.com/getting-started.html) 
@@ -70,7 +68,7 @@ tags: blogger, jekyll, website
 $ sudo bundle install
 ```
 
-#### 8.2.2 Web服务器
+### 8.3 云服务器上的Web服务器搭建
 
 不管是[Jekyll](https://jekyllrb.com)还是[HUGO](https://gohugo.io)，生成的静态网页都最好由Web服务器来Serve。一般而言，就两种选择：[Apache](https://httpd.apache.org/) 或者 [Nginx](https://nginx.org/en/)。在ubuntu上都是可以apt-get一个命令搞定。我选择的是 [Nginx](https://nginx.org/en/)。在开发本地，不需要安装web服务器，因为Jekyll安装就绪以后就已经可以通过以下命令来查看站点的本地效果。
 
@@ -80,11 +78,11 @@ $ sudo bundle exec jekyll server
 
 在ubuntu服务器下，安装好[Nginx](https://nginx.org/en/)后，[Nginx](https://nginx.org/en/)自动运行。此时访问服务器的IP地址或者你的站点（域名已经起作用了的话），就应该可以看到default的index.html。
 
-##### 8.2.2.1 Web服务器配置
+### 8.4 云服务器上的Web服务器配置
 
 [Nginx](https://nginx.org/en/)的配置文件有两类
 
-###### nginx配置文件 /etc/nginx/nginx.conf
+#### 8.4.1 nginx配置文件 /etc/nginx/nginx.conf
 
 将默认的注释去掉来enable以下的gzip配置
 
@@ -110,7 +108,7 @@ gzip_types
         image/svg+xml;
 ```
 
-###### 站点配置文件 \<sitename\>.conf
+#### 8.4.2 站点配置文件 \<sitename\>.conf
 
 首先在  `/etc/nginx/sites-available/` 目录下创建这个站点的配置文件
 
@@ -149,15 +147,15 @@ $ sudo ln -s /etc/nginx/sites-available/wangqiyi.me /etc/nginx/sites-enabled/wan
 $ service nginx restart
 ```
 
-##### 8.2.2.2 https配置
+### 8.5 https配置
 
-#### 8.2.3 git post-receive hook
+### 8.6 git post-receive hook
 
 部署流程中，可以采用的一种方式是在租用的云服务器上建立一个cron job。定期去github上拉一下内容，如果有新的内容那么就编译，然后部署（copy）到web服务器中。但是这次我尝试了一下另外一种方式：建立一个git post-receive hook。关于这个hook的解释，可以在[git官网](https://git-scm.com/book/zh/v2/自定义-Git-Git-钩子)中找到。简单来说，就是在云服务器上建立一个git仓库，并且在该仓库中建立一个hook。这个hook实际上是个shell脚本，它可以执行你定义的操作。触发器是你在本地的每一次push。
 
 用具体步骤来实例说明一下。
 
-1. 在云服务器（linode server）上，新建一个bare git仓库。
+> 第1步、在云服务器（linode server）上，新建一个bare git仓库。
 
 ```shell
 $ mkdir deploy.wangqiyi.me
@@ -167,7 +165,7 @@ $ git init --bare
 
 *deploy.wangqiyi.me*是一个空的git仓库，该文件夹里面有个hooks文件夹。
 
-1. 进入hooks目录，建立post-receive钩子
+> 第2步、进入hooks目录，建立post-receive钩子
 
 ```shell
 #!/bin/bash
@@ -189,7 +187,7 @@ exit
 $ chmod 755 post-receive
 ```
 
-1. 设定本地git中的remote分支，指向Linode Server
+> 第3步、 设定本地git中的remote分支，指向Linode Server
 
 ```shell
 $ git remote add deploy root@<Linode Server IP>:deploy.wangqiyi.me
@@ -200,7 +198,7 @@ $ git remote add deploy root@<Linode Server IP>:deploy.wangqiyi.me
 $ git push deploy master
 ```
 
-1. 还可以通过git remote set-url设定origin既指向github又指向Linode Server。这样做的好处是每次我push到origin的时候，实际上我push到了两个服务器。
+> 第4步、 还可以通过git remote set-url设定origin既指向github又指向Linode Server。这样做的好处是每次我push到origin的时候，实际上我push到了两个服务器。
 
 ```shell
 $ git remote set-url --add --push origin https://github.com/wjmmx/wangqiyi.git
@@ -208,7 +206,8 @@ $ git remote set-url --add --push origin root@139.162.12.156:deploy.wangqiyi.me
 ```
 
 以下参考文章，值得一读：
-* https://sofiya.io/blog/webhooks
-* http://jekyllcn.com/docs/deployment-methods/
+
+* [webhooks](https://sofiya.io/blog/webhooks)
+* [Jekyll官网部署页面](http://jekyllcn.com/docs/deployment-methods/)
 
 ## 九、发布文章
