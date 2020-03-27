@@ -211,3 +211,14 @@ $ git remote set-url --add --push origin root@139.162.12.156:deploy.wangqiyi.me
 * [Jekyll官网部署页面](http://jekyllcn.com/docs/deployment-methods/)
 
 ## 九、发布文章
+
+发布文章挺简单。只要在站点的*_post*目录下面创建文章即可。值得注意的有两点：
+
+1. 文章的文件名需要是“YYYY-MM-DD-Title.md”格式 
+2. 文章的图片在发布到站点的时候要用站点的变量 "{{ site.url }}"来指定路径。比如，我把图片放到 *assets/images/posts/YYYY/MM/*目录下，文章中的引用就是
+
+```shell
+{{ site.url }}/assets/images/posts/2019/11/2019-11-13.01.jpg
+``` 
+
+同样，参考[Jekyll官网的文章发布页面](http://jekyllcn.com/docs/posts/)
