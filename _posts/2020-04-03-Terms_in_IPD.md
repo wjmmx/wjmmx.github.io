@@ -10,6 +10,8 @@ tags: Communication, IPD, Process
 
 IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 
+<!--more-->
+
 ### TR1 
 
 > 概念阶段，评审产品需求、产品概念
@@ -34,6 +36,10 @@ IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 
 > 验证阶段，评审Beta测试（用户验收测试）、制造系统测试、认证和标杆测试结果
 
+---
+
+## 不同阶段的验证测试
+
 ### EVT (Engineering Verification Test)
 
 > 工程验证测试，这是产品开发初期的设计验证。设计者实现样品时做初期的测试验证，包括功能和安规测试，一般由RD(Research&Development)对样品进行全面验证，因是样品，问题可能较多，测试可能会做N次。
@@ -45,6 +51,10 @@ IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 ### DMT (Design Maturity Test)
 
 > 成熟度验证。可与DVT同时进行，主要极限条件下测试产品的MTBF(Mean Time Between Failure)。HALT(High Accelerated Life Test）&HASS(High Accelerated Stress Screen)等，是检验产品潜在缺陷的有效方法。
+
+### MVT（Mass-Production Verification Test）
+
+> 量产验证测试，验证量产时产品的大批量一致性，由DQA验证。
 
 ### PVT（Pilot-run Verification Test）
 
@@ -66,6 +76,8 @@ IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 
 > 公测。指某种内部软件的测试活动（例如网络游戏的测试运营）对公众开放。公测就是公开测试，封闭测试时参与人数较少，账号较难得，而且出现的BUG一般较多，数据一般不予保留。而公测一般是在内测数月后，游戏的BUG经过内测，已明显减少，允许玩家注册账号，数据予以保留，公测数月后进入正式运营。
 
+---
+
 ## 四个IPD里的组织结构
 
 ### IPMT (Integrated Product Management Team)
@@ -84,12 +96,17 @@ IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 
 > 技术开发团队：利用从研究和试验获得的知识或技术，为产品开发提供新的工艺和系统而进行实质性的改进。
 
-## 参考
-
-* [一句话解释IPD的核心内容](https://www.jianshu.com/p/cd04d7de2413)
-* [SMT贴片](https://baike.baidu.com/item/SMT贴片/10112579)
+---
 
 ## IPD的问题
 
 1. 问题之一：周期长，流动效率低。针对频繁的市场变化，我们需要缩短反馈环，提高[流动效率](https://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-1-seeing-your-system/)。
 1. 问题之二：视人为资源。如果是资源，那么它有其固定的能力。但是人的能力是可以发展的，正是因为人有这一特性，才能帮助组织提高适应性、灵活性，创造出伟大的产品。
+
+---
+
+## 参考
+
+* [一句话解释IPD的核心内容](https://www.jianshu.com/p/cd04d7de2413)
+* [SMT贴片](https://baike.baidu.com/item/SMT贴片/10112579)
+* [EVT、DVT是什麼？搞懂IoT新創產品開發的六個階段](https://mag.addmaker.tw/2019/11/15/evt、dvt是什麼？搞懂iot-新創產品開發的六個階段/)
