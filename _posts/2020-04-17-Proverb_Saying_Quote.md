@@ -6,7 +6,15 @@ tags: translation
 
 一个外国朋友说，帮我看看这段话是否是出自中国...
 
-> Be careful of your thoughts, for your thoughts become your words. Be careful of your words, for your words become your actions. Be careful of your actions, for your actions become your habits. Be careful of your habits, for your habits become your character. Be careful of your character, for your character becomes your destiny.
+> Be careful of your thoughts, for your thoughts become your words.
+>
+> Be careful of your words, for your words become your actions.
+>
+> Be careful of your actions, for your actions become your habits.
+>
+> Be careful of your habits, for your habits become your character.
+>
+> Be careful of your character, for your character becomes your destiny.
 
 <!--more-->
 
