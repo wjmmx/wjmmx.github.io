@@ -1,7 +1,10 @@
 ---
 title: Daily Scrum Checklist
 key: 20191014
-tags: Daily Scrum, Checklist, Scrum
+tags: 
+- Daily Scrum
+- Checklist
+- Scrum
 ---
 
 很多人都知道Daily Scrum中有三个问题，Jeff Sutherland还曾经在[一篇Blog](https://www.scruminc.com/why-three-questions-in-daily-scrum/)中描述为什么要问这三个问题。
