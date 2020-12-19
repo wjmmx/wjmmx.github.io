@@ -8,49 +8,28 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.png)
+# Competence and Focus
 
-TeXt is a customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+Philip Wang is an Agile coach, Scrum/XP practitioner, and an Agile enthusiast. He has rich experience on Agile and on helping client to adopt Agile to improve the overall performance of teams, leaders and organizations via asking questions, providing reflective observations, facilitating, mentoring, teaching and coaching. He is familiar with multiple practices in Agile Software Development, like CI/CD, Testing Automation, User Story Mapping, Specification by Example, and so on.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## Working Experience
 
-## Features
+- Since October 2017, Philip joined [Odd-e](http://odd-e.com) as Agile Coach. Besides providing daily coaching to multiple project teams, his current focus is DevOps and adopting Agile in large-scale organizations.
+- From November 2006 to October 2016, Philip has held increasing responsible positions at [Perficient (China)](http://perficient.com) an US NASDAQ listed (PRFT) IT consulting company where he was a Director of Operations. During his time at Perficient Philip has been a strong proponent of Agile principles and practices. He has not only applied these principles and practices in the various projects he has led but also coaches non-Agile experienced project leads to develop their understanding and application of these techniques.
+- From October 2002 to October 2006, Philip worked in Hundsun Inc as Department Manager working on Japanese market oriented software offshore development.
 
-- Responsive
-- Skins
-- Highlight Theme
-- Table of contents
-- Authors
-- Multi-language support(English, Simplified Chinese, Traditional Chinese)
-- Search
-- Semantic HTML
-- RSS（[jekyll-feed](https://github.com/jekyll/jekyll-feed))
-- Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
-- Mathematical formula ([MathJax](https://www.mathjax.org/))
-- Flowchart, Sequence diagram, Gantt diagram ([mermaid](https://mermaidjs.github.io/))
-- Line Chart, Bar Chart, Radar Chart, Pie Chart ([chartjs](http://www.chartjs.org/))
-- Page views ([LeanCloud](https://leancloud.cn/))
-- Comments ([Disqus](https://disqus.com/))
-- Google Analytics
+## Community Contribution
 
-## Skins
+As an active member of the Agile community in China, Philip has been the organizer/co-organizer and presented topics for the Agile Tour Hangzhou Stop for the past several years. He has also been a volunteer at the first Global Scrum Gathering in Shanghai in 2010 and two subsequent Regional Scrum Gatherings. He is the co-chair of Global Scrum Gathering Shanghai 2015. He is one of the organizers of Regional Scrum Gathering Hangzhou 2016.
 
-You can choose these 6 built-in skins below:
+## Translations (English to Chinese)
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.png) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.png) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.png) |
+- Jorgen Hesselberg's "Unlocking Agility: An Insider's Guide to Agile Enterprise Transformation"
+- LeSS Case Studies
+- Participated Scrum Guide 2020 translation
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.png) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.png) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.png) |
+## Certifications
 
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+- Certified Team Coach
+- PMP
+- CMMI V1.3 ATM (Audit Team Member)
