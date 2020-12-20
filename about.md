@@ -43,7 +43,7 @@ As an active member of the Agile community in China, Philip has participated com
 - Oct. 2017, Agile Tour Shenyang & Dalian 2017, ['Self-organising team is a "by-product"'](https://www2.slideshare.net/Philip.Wang/self-organized-team-is-a-byproduct)
 - Jul. 2018, TiD (Top Innovation Depth) Conference 2018, "ScrumMaster Leadership" workshop
 - Nov. 2018, Agile Tour Hangzhou 2018, ['Be the best of you"](https://eyun.baidu.com/s/3kWrKpev)
-- Jul. 2019, TiD Conference 2019, "The challenge the 'Sharing Economy' is facing"
+- Jul. 2019, TiD Conference 2019, ["The challenge the 'Sharing Economy' is facing"](https://www2.slideshare.net/Philip.Wang/the-challenge-the-sharing-economy-is-facing)
 
 ### Participated as Volunteer
 
