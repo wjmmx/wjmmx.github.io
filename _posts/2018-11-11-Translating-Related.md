@@ -1,7 +1,7 @@
 ---
 title: 翻译相关工具
 key: 20181111
-tags: tools translation 翻译
+tags: tools translation
 ---
 
 # 词典

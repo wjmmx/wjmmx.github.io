@@ -1,7 +1,7 @@
 ---
 title: The Two Popes
 key: 20200112
-tags: movie dialogue
+tags: movie communication
 ---
 
 # [The Two Popes](https://www.imdb.com/title/tt8404614/?ref_=nm_flmg_act_5)
