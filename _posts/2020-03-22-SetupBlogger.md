@@ -1,7 +1,7 @@
 ---
 title: 搭建个人网站 
 key: 20200322
-tags: blogger, jekyll, website
+tags: blogger jekyll website
 ---
 
 ## 一、搭建网站的考虑因素

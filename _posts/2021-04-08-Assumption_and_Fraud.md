@@ -1,7 +1,7 @@
 ---
 title: Assumption and Fraud
 key: 20210408
-tags: coach, thinking, Fraud
+tags: coaching thinking Fraud
 ---
 
 娃上初中了，但是有题目不会做还是会来问我。今天晚上，娃拿了这么一道题来问我。

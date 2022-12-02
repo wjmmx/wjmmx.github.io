@@ -1,7 +1,7 @@
 ---
 title: Words are Windows (Or They’re Walls)
 key: 20181001
-tags: poem, communication, NVC
+tags: poem communication NVC
 ---
 
 [![Marshall Rosenberg "Words are windows or they're walls"]({{ site.baseurl }}/images/2018-10-01-Words_are_windows.jpg)](https://www.youtube.com/watch?v=VEeYd4DQH78)

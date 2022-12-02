@@ -1,7 +1,7 @@
 ---
 title: 系统思考继续学习意愿案例
 key: 20180915
-tags: Systems-Thinking, learning
+tags: Systems-Thinking learning
 ---
 
 讲师发现很多学员参加完系统思考工作坊后，并没有继续学习的意愿。所以讲师们做了一些“思考”。

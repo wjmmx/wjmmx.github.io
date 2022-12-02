@@ -1,7 +1,7 @@
 ---
 title: 七绝
 key: 20200319
-tags: poem, life
+tags: poem life
 ---
 
 佳句好辞浮玉碗，<br/>

@@ -1,7 +1,7 @@
 ---
 title: Terms in IPD
 key: 20200403
-tags: Communication, IPD, Process
+tags: Communication IPD Process
 ---
 
 ## IPD (Integrated Product Development)

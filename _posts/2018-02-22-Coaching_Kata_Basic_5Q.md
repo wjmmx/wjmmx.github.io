@@ -1,7 +1,7 @@
 ---
 title: Coaching Kata - The Basic 5Q Structure
 key: 20180222
-tags: coaching, kata
+tags: coaching kata
 ---
 
 [![Coaching Kata - The Basic 5Q Structure]({{ site.baseurl }}/images/2018-02-22-Coaching_Kata_Basic_5Q.jpg)](https://youtu.be/ySdYX4cNPsQ)

@@ -1,7 +1,7 @@
 ---
 title: 在一个公益广告中看到的“教练”
 key: 20210709
-tags: coach, movie
+tags: coaching movie
 ---
 
 有朋友分享了一个公益广告，是台湾的信义房屋拍的一个公益短片。短片还获得了[Cannes Lions 的 Grands Prix 大奖。](https://www.lovethework.com/awards/entertainment-lions-117?year=2021)
