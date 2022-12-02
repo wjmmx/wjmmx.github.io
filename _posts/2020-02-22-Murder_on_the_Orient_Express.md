@@ -1,7 +1,7 @@
 ---
 title: 东方快车谋杀案
 key: 20200222
-tags: Movie Script
+tags: movie
 ---
 
 > 赫尔克里·波洛给阿姆斯特朗的回信

@@ -1,7 +1,7 @@
 ---
 title: RSG Coaching Retreat 2018
 key: 20180826
-tags: Coaching learning
+tags: coaching learning
 ---
 
 # Coaching Retreat

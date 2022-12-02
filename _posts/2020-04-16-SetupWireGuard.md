@@ -1,7 +1,7 @@
 ---
 title: 搭建WireGuard 
 key: 20200416
-tags: WireGuard VPN
+tags: VPN
 ---
 
 ## 一、动机
