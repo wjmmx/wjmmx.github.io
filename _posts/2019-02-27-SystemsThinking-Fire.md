@@ -1,7 +1,9 @@
 ---
 title: 由一场火灾及处理到对城市发展与人口的系统思考
 key: 20190227
-tags: Systems-Thinking, CityDevelopment
+tags: 
+- Systems Thinking 
+- CityDevelopment
 ---
 
 ## 北京大兴“11·18”火灾
