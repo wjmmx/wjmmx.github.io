@@ -4,13 +4,13 @@ key: 20220714
 tags: life poem translations
 ---
 
+> 鹊桥仙
 > 【宋】秦观
 > 
-> 纤云弄巧，飞星传恨，银汉迢迢暗度。
-> 金风玉露一相逢，便胜却人间无数。
-> 柔情似水，佳期如梦，忍顾鹊桥归路。
-> 两情若是久长时，又岂在朝朝暮暮。
-{:title="鹊桥仙"}
+> 纤云弄巧，飞星传恨，银汉迢迢暗度。金风玉露一相逢，便胜却人间无数。
+> 柔情似水，佳期如梦，忍顾鹊桥归路。两情若是久长时，又岂在朝朝暮暮。
+
+<!--more-->
 
 似乎天上的纤云也在学习织女的技巧，星星也在为两人的相会传送幽恨。相会的路途很遥远，只能在暗夜中进行。这秋风白露的相会虽然一年一度，却胜过了人世间那些长相厮守的爱情千万倍。
 柔情像流水绵绵不断，重逢像梦幻缥缈短暂，分别之时依依不舍，一边往鹊桥两端走一边不时回头张望。爱情若是长久，又何必朝朝暮暮在一起。
@@ -19,18 +19,19 @@ tags: life poem translations
 
 勾起我重读这首词的是许渊冲先生的英译版本。虽然译文照翻了原词的意象（从老外的眼里可能并没有什么意义），但是从art, heart; Maid, Jade, fade; stream, dream; way, aye, day; 读起来也是很有点感觉。蛮有意思。
 
-> Immortals at the Magpie Bridge
-> 
-> Clouds float like works of art;
-> Stars shoot with grief at heart.
-> Across the Milky Way the Cowherd meets the Maid
-> When Autumn’s Golden wind embraces Dew of Jade，
-> All the love scenes on earth, however many, fade.
-> This tender love flows like a stream;
-> Their happy date seems but a dream.
-> How can they bear a separate homeward way?
-> If love between both sides can last for aye,
-> Why need they stay together night and day?
-{:title="Immortals at the Magpie Bridge"}
+```
+Immortals at the Magpie Bridge
 
-> P.S. 山房读书鉴诗小记
+Clouds float like works of art;
+Stars shoot with grief at heart.
+Across the Milky Way the Cowherd meets the Maid
+When Autumn’s Golden wind embraces Dew of Jade，
+All the love scenes on earth, however many, fade.
+This tender love flows like a stream;
+Their happy date seems but a dream.
+How can they bear a separate homeward way?
+If love between both sides can last for aye,
+Why need they stay together night and day?
+```
+
+[^1] P.S. 山房读书鉴诗小记
