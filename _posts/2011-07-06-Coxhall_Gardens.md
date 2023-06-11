@@ -4,7 +4,7 @@ key: 20110706
 tags: photo life
 ---
 
-![The Two Popes]({{ site.baseurl }}/images/2011-07-06-09-32-03.jpg)
+![Coxhall Gardens]({{ site.baseurl }}/images/2011-07-06-09-32-03.jpg)
 
 ```
 相机：Canon 7D

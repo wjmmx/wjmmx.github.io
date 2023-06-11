@@ -4,7 +4,7 @@ key: 20200121
 tags: photo life hiking
 ---
 
-![The Two Popes]({{ site.baseurl }}/images/2020-01-21-03-53-00.jpg)
+![Red Crater]({{ site.baseurl }}/images/2020-01-21-03-53-00.jpg)
 
 ```
 相机：Canon 5D Mark IV
