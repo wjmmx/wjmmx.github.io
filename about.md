@@ -1,11 +1,11 @@
 ---
-layout: article
-titles:
-  en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
-key: page-about
+title: "关于"
+permalink: /about/
+layout: single
+author_profile: true
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 ## Competence and Focus
