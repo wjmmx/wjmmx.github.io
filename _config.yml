@@ -23,7 +23,7 @@ baseurl : # does not include hostname
 title   : WHO AM I
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
-remote_theme: kitian616/jekyll-text-theme
+remote_theme: mmistakes/minimal-mistakes
 
 
 ## => Language and Timezone
@@ -176,7 +176,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: article
+      layout: single
       license: true
       aside:
         toc: true
@@ -191,3 +191,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-include-cache
