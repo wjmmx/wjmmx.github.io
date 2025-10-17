@@ -16,10 +16,10 @@
 
 ## => Site Settings
 ##############################
-url     : https://wjmmx.github.io
+url     : https://philip.wang
 baseurl : ""  # leave empty for GitHub Pages or specify your subpath
 title   : WHO AM I
-subtitle: # site tagline that appears below site title
+subtitle: "Interacting Parts | Emergence | Feedback Loop | Non-Linear | Self-Organizing"
 name    : "Philip Wang"
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
@@ -49,7 +49,7 @@ timezone: Asia/Shanghai
 author:
   name      : "Philip Wang"
   avatar    : "https://via.placeholder.com/150" # path of avatar image or placeholder
-  bio       : "I am an Agile Coach@odd-e."
+  bio       : "Agile Coach@odd-e."
   location  : "China"
   email     : philip.wang@odd-e.com
   links:
@@ -58,7 +58,7 @@ author:
       url: "mailto:philip.wang@odd-e.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://philip.wang"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wjmmx"
@@ -145,6 +145,14 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+# Archive
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 ## => Build
 ##############################
@@ -234,3 +242,8 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/
