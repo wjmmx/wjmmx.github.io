@@ -23,7 +23,7 @@ subtitle: "Interacting Parts | Emergence | Feedback Loop | Non-Linear | Self-Org
 name    : "Philip Wang"
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Navigation
