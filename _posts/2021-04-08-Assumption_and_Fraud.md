@@ -1,6 +1,7 @@
 ---
 title: Assumption and Fraud
 key: 20210408
+categories: coaching
 tags: coaching
 ---
 

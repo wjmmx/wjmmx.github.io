@@ -1,6 +1,7 @@
 ---
 title: Myths and Facts of Scrum Roles
 key: 20200221
+categories: Agile
 tags: Scrum
 ---
 

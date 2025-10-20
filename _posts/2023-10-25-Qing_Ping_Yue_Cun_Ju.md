@@ -1,6 +1,7 @@
 ---
 title: 清平乐・村居
 key: 20231025
+categories: poem
 tags: life poem
 ---
 

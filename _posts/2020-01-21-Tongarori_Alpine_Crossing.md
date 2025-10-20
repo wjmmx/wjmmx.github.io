@@ -1,10 +1,11 @@
 ---
 title: Tongariro Alpine Crossing
 key: 20200121
+categories: photo
 tags: photo life hiking
 ---
 
-![Red Crater]({{ site.baseurl }}/images/2020-01-21-03-53-00.jpg)
+![Red Crater](<{{ site.baseurl }}/photos/Canon EOS 5D Mark IV_2020-01-21-03-53-00.jpg>)
 
 ```
 相机：Canon 5D Mark IV

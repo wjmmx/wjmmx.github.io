@@ -1,6 +1,7 @@
 ---
 title: 失败 VS 成长
 key: 20220713
+categories: coaching
 tags: coaching
 ---
 
@@ -37,7 +38,7 @@ tags: coaching
 
 《哈利波特》的作者J.K.罗琳女士就是这些人中的一个代表。她出席2008年哈佛大学的毕业典礼并做了演讲。
 
-> “从任何传统的标准看，在我毕业仅仅七年后的日子里，我的失败达到了史诗般空前的规模：短命的婚姻闪电般地破裂，我又失业成了一个艰难的单身母亲。除了流浪汉，我是当代英国最穷的人之一，真的一无所有。当年父母和我自己对未来的担忧，现在都变成了现实。按照惯常的标准来看，我也是我所知道的最失败的人。  
+> “从任何传统的标准看，在我毕业仅仅七年后的日子里，我的失败达到了史诗般空前的规模：短命的婚姻闪电般地破裂，我又失业成了一个艰难的单身母亲。除了流浪汉，我是当代英国最穷的人之一，真的一无所有。当年父母和我自己对未来的担忧，现在都变成了现实。按照惯常的标准来看，我也是我所知道的最失败的人。
 > ……
 > 因为失败意味着剥离掉那些不必要的东西。我因此不再伪装自己、远离自我，而重新开始把所有精力放在对我最重要的事情上。如果不是没有在其他领域成功过，我可能就不会找到，在一个我确信真正属于的舞台上取得成功的决心。我获得了自由，因为最害怕的虽然已经发生了，但我还活着，我仍然有一个我深爱的女儿，我还有一个旧打字机和一个很大的想法。所以困境的谷底，成为我重建生活的坚实基础。 “
 
@@ -47,7 +48,7 @@ tags: coaching
 
 在变化日渐快速的环境中，已经不容易看出事物间因果关系，解决方案也常常不是只有一个，需要在不断试错和探索中涌现出来。[Cynefin框架](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)是由Dave Snowden提出的一个概念框架，用于辅助领导者认知问题并进行决策。这个框架将领导者可能遇到问题划分为五种场景，分别是：简单（Simple）、繁杂（Complicated）、复杂（Complex），混乱（Chaotic）和无序（Disorder）。现在很多的业务环境都是处于复杂的情境中。而在这个情境下，Cynefin框架建议的方式是尝试不同的方式或主意，根据环境给出的反馈来确认什么方案有效或无效，再进行响应。
 
-> Probe - Sense - Response。 probing different approaches and ideas, sensing the results/feedback to see what works and what doesn’t, and responding appropriately (by amplifying and dampening our probes). 
+> Probe - Sense - Response。 probing different approaches and ideas, sensing the results/feedback to see what works and what doesn’t, and responding appropriately (by amplifying and dampening our probes).
 
 ![Cynefin Framework]({{ site.baseurl }}/images/2022-07-13-Cynefin_framework.jpeg "Cynefin Framework")
  
@@ -92,7 +93,7 @@ tags: coaching
 3.	你如何确保你是一直朝着目标前行？
  
 ## 参考
-1. [J·K·罗琳在哈佛大学毕业典礼上的演讲：失败的好处和想象的重要性](https://www.bilibili.com/video/av90140374/?vd_source=6875d1fad30414ddf5d237aba9bcd567) 
+1. [J·K·罗琳在哈佛大学毕业典礼上的演讲：失败的好处和想象的重要性](https://www.bilibili.com/video/av90140374/?vd_source=6875d1fad30414ddf5d237aba9bcd567)
 2. [J.K. Rowling's speech at Harvard commencement: The Fringe Benefits of Failure, and the Importance of Imagination](https://www.ted.com/talks/jk_rowling_the_fringe_benefits_of_failure)
 3. [“Defensive Pessimism, Anxiety, and the Complexity of Evaluating Self-Regulation”](https://anthonyongphd.files.wordpress.com/2018/08/norem-2008.pdf) by Julie K. Norem, published on Social and Personality Psychology Compass 2/1 (2008): 121–134, 10.1111/j.1751-9004.2007.00053.x
-4. [Cynefin Framework](https://cynefin.io/wiki/Cynefin) by Dave Snowden 
+4. [Cynefin Framework](https://cynefin.io/wiki/Cynefin) by Dave Snowden

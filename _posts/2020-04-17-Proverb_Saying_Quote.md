@@ -1,6 +1,7 @@
 ---
 title: Proverb VS Saying VS Quote
 key: 20200417
+categories: learn
 tags: translation
 ---
 

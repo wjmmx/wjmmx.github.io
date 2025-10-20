@@ -1,6 +1,7 @@
 ---
-title: 搭建WireGuard 
+title: 搭建WireGuard
 key: 20200416
+categories: tech
 tags: VPN
 ---
 
@@ -11,9 +12,9 @@ tags: VPN
 
 <!--more-->
 
-## 二、参考 
+## 二、参考
 
-* [非官方文档](https://github.com/pirate/wireguard-docs) 
+* [非官方文档](https://github.com/pirate/wireguard-docs)
 * [官方文档](https://www.wireguard.com/)
 * [来自于linode的 - 如何在ubuntu上设置wireguard （这篇很棒，因为我的VPS就是搭建在linode）](https://www.linode.com/docs/networking/vpn/set-up-wireguard-vpn-on-ubuntu/)
 * [WireGuard安装配置教程](https://www.lixh.cn/archives/2134.html)
@@ -44,7 +45,7 @@ $ sudo wg show
 ### 添加WireGuard仓库到apt包管理器中
 
 ```shell
-$ sudo add-apt-repository ppa:wireguard/wireguard 
+$ sudo add-apt-repository ppa:wireguard/wireguard
 ```
 
 ### 安装wireguard

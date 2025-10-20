@@ -1,6 +1,7 @@
 ---
 title: The Two Popes
 key: 20200112
+categories: life
 tags: movie communication
 ---
 
@@ -79,7 +80,7 @@ Movie的中文名是[教宗的承继](https://movie.douban.com/subject/27132510/
 * **RATZINGER:** Not directly. When I made it easier to get permission to use the old Tridentine mass, I was criticized because it contains a prayer for the conversion of the Jews.
 * **BERGOGLIO:** I never said a word.
 * **RATZINGER:** You invited the chief rabbi to a public lunch.
-* **BERGOGLIO:** Rabbi Skora and I go back a long way. Also I’d cooked too much. Wasting food is stealing from the poor. 
+* **BERGOGLIO:** Rabbi Skora and I go back a long way. Also I’d cooked too much. Wasting food is stealing from the poor.
 
 > By now they have strolled into one of those decorative mazes. Preoccupied, they take the twists and turns as they come.
 

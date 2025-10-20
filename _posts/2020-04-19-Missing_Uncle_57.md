@@ -1,7 +1,8 @@
 ---
 title: 五绝之五七念亡叔
 key: 20200419
-tags: 
+categories: poem
+tags:
 - poem
 - life
 ---

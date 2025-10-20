@@ -1,6 +1,7 @@
 ---
 title: 东方快车谋杀案
 key: 20200222
+categories: life
 tags: movie
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Coaching Kata - The Basic 5Q Structure
 key: 20180222
+categories: coaching
 tags: coaching
 ---
 
@@ -20,13 +21,13 @@ tags: coaching
 ## Dialogue's English Version
 
 Good morning Alan.
-Morning Dwayne good to see you again. I really appreciate you taking the time to meet with me this morning. I really would like to just get going and understanding a little bit more about the challenge that you and the rest of the side are working to accomplish. 
-A challenge in the prime Madison value stream is to increase our production rate by 500 trades per shift to six on a trades per shift and we need to accomplish this with our existing headcount. 
+Morning Dwayne good to see you again. I really appreciate you taking the time to meet with me this morning. I really would like to just get going and understanding a little bit more about the challenge that you and the rest of the side are working to accomplish.
+A challenge in the prime Madison value stream is to increase our production rate by 500 trades per shift to six on a trades per shift and we need to accomplish this with our existing headcount.
 okay, great. So now let's take it down level and talk a little bit more about how that relates to you and your team what is the target ition that you're striving to achieve.
 Well. Supplies inspection our piece of the value stream. we need to establish a workflow system in this area that's both planned and leveled.
 
 Okay and by when are you looking to achieve this.
-By the end of the year which is four months from now 
+By the end of the year which is four months from now
 
 Okay. So teach me and tell me a little bit more about how then this target condition relates back to the challenge that you just shared?
 Well. We need additional capacity and we predict that if we can get our work into a planned and level state and we'll have the capacity support the value stream challenge.
@@ -35,31 +36,31 @@ Currently our work is 80% unplanned and it's not leveled
 Okay there are a number of interruptions that occur throughout the day that that create this unplanned state and you can see them in this graph here.
 Wow! Okay. Very good. All right. So let's move on. So then what obstacles do you think are preventing you from achieving your target condition?
 
-We have four obstacles that we've identified. One being that deliveries come in batches. We get a large number of batches of materials at one time. Another being interruptions and in particular the supplies inspection personnel being interrupted to go back into the warehouse and direct the movement of materials. 
+We have four obstacles that we've identified. One being that deliveries come in batches. We get a large number of batches of materials at one time. Another being interruptions and in particular the supplies inspection personnel being interrupted to go back into the warehouse and direct the movement of materials.
 Okay
-A third was is the occasional high reject rate of in particular materials that come in. And the fourth was that everyone won the spot suspection. Team is not cross trained to do all activities. 
+A third was is the occasional high reject rate of in particular materials that come in. And the fourth was that everyone won the spot suspection. Team is not cross trained to do all activities.
 Okay very good. Sounds comprehensive. So which one you're addressing now?
 Now we're working on the supplies inspection personnel going into the warehouse to direct the movement of materials the interruptions that that activity causes.
 okay great so let's take a step back and let's reflect on the last step that you took in order to address this obstacle.
-let's say I walked through so what was the step that you took 
+let's say I walked through so what was the step that you took
 Well. My step was to try to have the receivers in the warehouse direct material movement.
 Okay.And what did you expect?
 We expected really just to learn what we needed to work on.
 Okay.
-And to be able to make that transition all right. 
+And to be able to make that transition all right.
 what actually happened though?
 Well. What happened is that the receivers didn't have the sampling plan. It didn't know how to interpret the ANSI tables so they didn't have the information they needed to direct material movement.
 All right. And then the end what did you learn?
 We learned that the receivers need additional information and some instruction.
-Okay. So share with me now if you will the next step that you plan on taking your next cycle. 
-Our next step is to assess the information that the receivers will need to be able to direct material movement 
+Okay. So share with me now if you will the next step that you plan on taking your next cycle.
+Our next step is to assess the information that the receivers will need to be able to direct material movement
 Okay so tell me a little bit more about how you plan on taking that step
-Well. We currently have a sampling plan that has a lot of information in it and so we want to go through that and identify which pieces the receivers need for directing material movement is that and who will do that I'll probably sit down with that plan and and go through and try to determine which pieces of information are needed look how good 
+Well. We currently have a sampling plan that has a lot of information in it and so we want to go through that and identify which pieces the receivers need for directing material movement is that and who will do that I'll probably sit down with that plan and and go through and try to determine which pieces of information are needed look how good
 And what do you expect with this step?
 Well. We expect to learn what we need to put into a job age for the receivers.
 Okay great.
 so then one k-- we go see what you have learned from taking this next step.
-tomorrow afternoon we should have identified the information that the receivers need 
+tomorrow afternoon we should have identified the information that the receivers need
 okay great
 well I really appreciate you taking the time to meet with me this this morning. And that sounds like you guys are well on your way. I really encourage you and the team to continue following the scientific process that you takin. well done!
 Thank you!

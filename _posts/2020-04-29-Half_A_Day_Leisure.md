@@ -1,7 +1,8 @@
 ---
 title: 七绝·半日闲情
 key: 20200429
-tags: 
+categories: poem
+tags:
 - poem
 - life
 ---

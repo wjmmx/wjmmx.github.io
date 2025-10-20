@@ -1,7 +1,10 @@
 ---
 title: Terms in IPD
 key: 20200403
-tags: communication Process
+categories: learn
+tags:
+- communication
+- Process
 ---
 
 ## IPD (Integrated Product Development)
@@ -12,7 +15,7 @@ IPD中的TR用数字标识，对应到不同的“瀑布”阶段。
 
 <!--more-->
 
-### TR1 
+### TR1
 
 > 概念阶段，评审产品需求、产品概念
 

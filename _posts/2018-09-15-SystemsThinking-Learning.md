@@ -1,9 +1,10 @@
 ---
 title: 系统思考继续学习意愿案例
 key: 20180915
-tags: 
+categories: learn
+tags:
 - Systems Thinking
-- learning
+- learn
 ---
 
 讲师发现很多学员参加完系统思考工作坊后，并没有继续学习的意愿。所以讲师们做了一些“思考”。
@@ -24,7 +25,7 @@ tags:
     * 结果 （需要跟Ned再check一下）
     * 工作坊期间 (需要跟晓芸再check一下)
 ![Learning Patterns]({{ site.baseurl }}/images/2018-09-15-LearningPatterns.png)
-1. 结构 
+1. 结构
     * 参见CLD
 1. 心智模式
     * 等到问题来了再说
@@ -52,18 +53,18 @@ tags:
 
 现在我把变量“参加课程获得的能力”分为“鉴别动态复杂问题的能力”及“分析、解决动态复杂问题的能力”。其中“鉴别动态复杂问题的能力”帮助学员鉴别出动态复杂问题，坚定使用系统思考解决动态复杂问题的信心。这样，当发现能力上有差距的时候，差距越大，持续学习系统思考的意愿也会越强。
 
-![继续学习 CLD - Spliting Ability]({{ site.baseurl }}/images/2018-09-15-LearningCLD03.jpeg) 
+![继续学习 CLD - Spliting Ability]({{ site.baseurl }}/images/2018-09-15-LearningCLD03.jpeg)
 
 这样，就引入了一个新的增强回路。我把它命名为“鉴别动态复杂问题能力增强回路”。
 
-![继续学习 CLD - Identify Complex Problem R Loop]({{ site.baseurl }}/images/2018-09-15-LearningCLD04.jpeg) 
+![继续学习 CLD - Identify Complex Problem R Loop]({{ site.baseurl }}/images/2018-09-15-LearningCLD04.jpeg)
 
 前面的R1是“通过课程获得能力增强回路”。其实通过参加课程或者工作坊只是学习的方法之一，所以把这个回路做一些简化，再引入“学员通过不同学习途径进行学习的力度”和“通过系统思考解决实际问题的个数”两个变量。就形成了下面的CLD。
 * R1：通过学习系统思考解决实际问题增强回路
 * R2：鉴别动态复杂问题能力增强回路
 * B：解决实际问题能力平衡回路
 
-![继续学习 CLD - Simplify Learning Chanel]({{ site.baseurl }}/images/2018-09-15-LearningCLD05.jpeg) 
+![继续学习 CLD - Simplify Learning Chanel]({{ site.baseurl }}/images/2018-09-15-LearningCLD05.jpeg)
 
 为了激发继续学习的意愿，我想至少可以做两点：
 1. 帮助学员认识动态复杂，以及系统思考是如何可以帮助应对动态复杂的；

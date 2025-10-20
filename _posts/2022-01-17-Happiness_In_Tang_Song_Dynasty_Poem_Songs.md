@@ -1,10 +1,14 @@
 ---
 title: 读诗鉴诗之喜悦
 key: 20220117
-tags: life poem emotion
+categories: poem
+tags:
+- life
+- poem
+- emotion
 ---
 
-闻官军收河南河北  
+闻官军收河南河北
 【唐】杜甫
 
 > 剑外忽传收蓟北，初闻涕泪满衣裳。

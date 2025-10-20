@@ -1,7 +1,10 @@
 ---
 title: 冬雷震震
 key: 20221128
-tags: life poem
+categories: poem
+tags:
+- life
+- poem
 ---
 
 “上邪！我欲与君相知，长命无绝衰。

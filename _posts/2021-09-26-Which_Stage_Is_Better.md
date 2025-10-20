@@ -1,7 +1,10 @@
 ---
 title: 哪个境界更高
 key: 20210926
-tags: life poem
+categories: poem
+tags:
+- life
+- poem
 ---
 
 ```

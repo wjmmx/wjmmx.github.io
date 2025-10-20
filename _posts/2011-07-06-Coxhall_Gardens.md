@@ -1,14 +1,17 @@
 ---
 title: Coxhall Gardens
 key: 20110706
-tags: photo life
+categories: photo
+tags:
+- photo
+- life
 ---
 
-![Coxhall Gardens]({{ site.baseurl }}/images/2011-07-06-09-32-03.jpg)
+![Coxhall Gardens](<{{ site.baseurl }}/photos/Canon EOS 7D_2011-07-06-09-32-03.jpg>)
 
 ```
 相机：Canon 7D
-镜头：EF 17–40mm f/4L USM
+镜头：EF 17–40mm f/4LUSM
 光圈：ƒ/9.0
 焦距：40.0mm
 快门速度：1 秒

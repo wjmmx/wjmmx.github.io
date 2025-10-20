@@ -1,6 +1,7 @@
 ---
 title: 翻译相关工具
 key: 20181111
+categories: learn
 tags: tools translation
 ---
 

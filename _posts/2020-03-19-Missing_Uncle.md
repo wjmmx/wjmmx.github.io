@@ -1,6 +1,7 @@
 ---
 title: 七绝
 key: 20200319
+categories: poem
 tags: poem life
 ---
 

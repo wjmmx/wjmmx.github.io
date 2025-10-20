@@ -1,7 +1,11 @@
 ---
 title: 不顾鹊桥归路
 key: 20220714
-tags: life poem translations
+categories: poem
+tags:
+- life
+- poem
+- translations
 ---
 
 ```

@@ -1,7 +1,8 @@
 ---
 title: Daily Scrum Checklist
 key: 20191014
-tags: 
+categories: Agile
+tags:
 - Scrum
 ---
 

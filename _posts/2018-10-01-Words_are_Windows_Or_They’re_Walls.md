@@ -1,6 +1,7 @@
 ---
 title: Words are Windows (Or They’re Walls)
 key: 20181001
+categories: poem
 tags: poem communication NVC
 ---
 
