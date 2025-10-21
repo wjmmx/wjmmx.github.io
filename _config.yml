@@ -119,7 +119,7 @@ repository_tree: master
 author:
   name             : "Philip Wang"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Agile Coach@odd-e"
+  bio              : "agile coach @ odd-e.com"
   location         : "Hangzhou, Zhejiang, China"
   email            : "philip.wang@odd-e.com"
   links:
